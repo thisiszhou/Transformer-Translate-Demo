@@ -7,6 +7,7 @@ This demo is just for learning Transformer, which is basing on only one pair of 
 
 <div align="center">
   <img src="img/multih.jpg" width="800" />
+  <p>Multihead Attention.</p>
 </div>
 
 > Entire tutorial of Transformer Translation model, please see: https://zhuanlan.zhihu.com/p/360343417
