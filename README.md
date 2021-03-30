@@ -5,12 +5,20 @@ This demo is just for learning Transformer, which is basing on only one pair of 
 > Input sentence: ['\<bos\>', 'i', 'am', 'iron', 'man', '\<eos\>']<br>
 > After translate: ['\<bos\>', '我', '是', '钢铁', '侠', '\<eos\>']<br>
 
+<div align="center">
+  <img src="img/multih.jpg" width="800" />
+</div>
+
 > Entire tutorial of Transformer Translation model, please see: https://zhuanlan.zhihu.com/p/360343417
+
+****************
 
 ## Requirement
 ```bashrc
 $ pip install -r requirements.txt
 ```
+
+****************
 
 ## Quick Start
 
