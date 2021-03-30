@@ -2,8 +2,8 @@
 
 ## Introduction
 This demo is just for learning Transformer, which is basing on only one pair of sentences:<br>
-Input sentence: ['\<bos\>', 'i', 'am', 'iron', 'man', '\<eos\>']<br>
-After translate: ['\<bos\>', '我', '是', '钢铁', '侠', '\<eos\>']<br>
+> Input sentence: ['\<bos\>', 'i', 'am', 'iron', 'man', '\<eos\>']<br>
+> After translate: ['\<bos\>', '我', '是', '钢铁', '侠', '\<eos\>']<br>
 
 > Entire tutorial of Transformer Translation model, please see: https://zhuanlan.zhihu.com/p/360343417
 
